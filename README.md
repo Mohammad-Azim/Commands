@@ -9,3 +9,4 @@
 
 ## GitHub
  - git config --global user.email mohammad.azim@email.com
+ - git branch | grep -v "main\|master\|develop" | xargs git branch -D
