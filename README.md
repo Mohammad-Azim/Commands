@@ -6,6 +6,7 @@
 ## Angular
 -  npm i -g @angular/cli
 -  ng new projectName
+-  ng generate component components/componentName
 
 ## GitHub
  - git config --global user.email mohammad.azim@email.com
