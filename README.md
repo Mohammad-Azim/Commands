@@ -7,6 +7,7 @@
 -  npm i -g @angular/cli
 -  ng new projectName
 -  ng generate component components/componentName
+-  ng generate directive directives/myIf/myIf
 
 ## GitHub
  - git config --global user.email mohammad.azim@email.com
