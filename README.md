@@ -12,3 +12,8 @@
 ## GitHub
  - ``git config --global user.email mohammad.azim@email.com``
  - ``git branch | grep -v "main\|master\|develop" | xargs git branch -D``
+
+
+## Ubuntu 
+- ``sudo apt-get update``
+- ``sudo apt-get upgrade``
